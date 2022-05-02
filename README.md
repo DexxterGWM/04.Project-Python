@@ -1,2 +1,2 @@
 # 04.Project-Python
- Python string manipulation.
+ - Python string manipulation.
