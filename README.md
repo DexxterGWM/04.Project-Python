@@ -1,2 +1,4 @@
 # 04.Project-Python
- - Python string manipulation.
+String Manipulation in Python.
+
+ - Manipulating strings in different ways, in Python!🐍
